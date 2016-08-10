@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="Nombre_completo">Nombre Completo:</string>
+    <string name="Victor_garcia">Victor Garcia</string>
+    <string name="telefono">tel: 222111444</string>
+    <string name="Telefono">Telefono:</string>
+    <string name="email">Email:</string>
+    <string name="Email">Email: garcia@gmail.com</string>
+    <string name="Descripcion_completa">Descripcion completa:</string>
+    <string name="Confirmar_Datos">Confirmar Datos</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento: 25/08/1978</string>
+    <string name="Descripcion">Descripcion: conozco a victor</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="Editar">Editar</string>
+</resources>
